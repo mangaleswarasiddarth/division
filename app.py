@@ -1,6 +1,5 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
+
 
 st.header("Divsion")
 a=st.number_input("enter first number")
